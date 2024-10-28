@@ -14,8 +14,8 @@
 Все они располагаются в своих конфигурационных файлах.
 Ниже пример конфигурации имени и электронного ящика пользователя.
 `git config --global user.name "Surname Name"`
-`git config --global user.email "your_email"`
----
+`git config --global user.email "your_email"`.
+
 ### Bash. Навигация
 - pwd (от англ. _**p**rint **w**orking **d**irectory_, «показать рабочую папку») — покажи, в какой я папке;
 - ls (от англ. _**l**i**s**t directory contents_, «отобразить содержимое директории») — покажи файлы и папки в текущей папке;
